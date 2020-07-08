@@ -7,5 +7,9 @@ hfcodsihjs
 22222
 3333jf
 djhvf
+<<<<<<< HEAD
 yyyy
 uuu
+=======
+ppppppp
+>>>>>>> t5
